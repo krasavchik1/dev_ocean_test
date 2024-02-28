@@ -1,0 +1,8 @@
+-open cypress
+
+    node_modules/.bin/cypress open
+
+-run all tests in a folder
+
+    node_modules/.bin/cypress run
+

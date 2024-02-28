@@ -1,0 +1,21 @@
+{
+  "name": "dev_ocean_test1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krasavchik1/dev_ocean_test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.6.6"
+  },
+  "dependencies": {
+    "mailslurp-client": "^15.17.5"
+  }
+}

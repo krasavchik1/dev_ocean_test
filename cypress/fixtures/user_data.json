@@ -1,0 +1,44 @@
+{
+  "valid_data": {
+    "firstname": "Monte",
+    "secondname": "Kirvin",
+    "email": "sharr2o2ck@geocities.com",
+    "password": "12345678",
+    "conf_password": "12345678"
+},
+
+
+  "invalid_email": {
+    "firstname": "Gilberto",
+    "secondname": "Sharrock",
+    "email": "gsharrockr3prlog.org",
+    "password": "1234567",
+    "conf_password": "12345678"
+  },
+
+
+  "existed_email": {
+    "firstname": "Monte",
+    "secondname": "Kirvin",
+    "email": "sharr2ock@geocities.com",
+    "password": "00000000",
+    "conf_password": "00000000"
+},
+
+
+  "invalid_pswd": {
+    "firstname": "Betteanne",
+    "secondname": "Kohrding",
+    "email": "bkohrdingqy@usda.gov",
+    "password": "12345678",
+    "conf_password": "123456789"
+},
+
+
+  "short_pswd": {
+    "email": "kristina_reshko67@gmail.com",
+    "password": "Qsl"
+}
+
+
+}
